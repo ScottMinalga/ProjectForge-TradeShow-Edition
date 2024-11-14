@@ -80,7 +80,7 @@ Project Number/
 ### Configuration
 1. **Base Directory**: Update the `base_dir` variable in the `create_tradeshow_project()` function to specify where project folders should be created.
    ```python
-   base_dir = r"M:\Tech Center\TECH CENTER PROJECTS Trade Show and Testing"
+   base_dir = r"YOUR_DIRECTORY_PATH_HERE"
    ```
 2. **Adding/Removing Subdirectories**: Modify the `subdirs` list in the script to change the default subfolder structure. For example:
    ```python
