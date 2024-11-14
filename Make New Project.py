@@ -1,5 +1,5 @@
 import os
-
+import time
 
 def create_tradeshow_project():
     # Set the base directory to the specified shared directory on the server
@@ -16,6 +16,7 @@ def create_tradeshow_project():
 
         if project_number.lower() == 'exit':
             print("Exiting the program.")
+            time.sleep(1)
             break
 
         # Define the project directory path within the specified base directory

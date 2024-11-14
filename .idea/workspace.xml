@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18bd2048-529d-48d7-9e96-2725e7c0a88d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Tradeshow folder create.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="18bd2048-529d-48d7-9e96-2725e7c0a88d" name="Changes" comment="Tested and deployed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Make New Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Make New Project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1731593798880</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tested and deployed">
+      <option name="closed" value="true" />
+      <created>1731613674404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731613674404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tested and deployed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tested and deployed" />
   </component>
 </project>
